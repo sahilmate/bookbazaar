@@ -174,15 +174,17 @@ STRIPE_SECRET_KEY=sk_test_XXXXXXX
 
 ## Screenshots
 
-*(Below are placeholders. Replace with actual screenshot paths.)*
-```
-I will make a Medium post with all the screenshots and procedures as well, hence leaving this section blank right now.
-```
-<!--
-| Home Page                           | Admin Dashboard                     |
+
+| User Pages                           | Admin Pages                     |
 |-------------------------------------|-------------------------------------|
-| ![Home Page](screenshots/home.png)  | ![Admin Dashboard](screenshots/admin.png) |
--->
+| ![Home Page](user_images/user_home_page.png)  | ![Admin Page](admin_images/admin_page.png) |
+| ![About Page](user_images/user_about_page.png) | ![Admin Products Page](admin_images/admin_products.png) |
+| ![Orders Page](user_images/user_orders.png) | ![Admin Orders Page](admin_images/admin_orders.png) |
+| ![Shop Page](user_images/user_shop.png) | ![Admin Users Page](admin_images/admin_users.png) |
+| ![Contact Page](user_images/user_contact.png) | ![Admin Contact Page](admin_images/admin_contacts.png) |
+| ![Checkout Page](user_images/user_checkout.png) | ![Admin Stripe Dashboard](admin_images/admin_stripe_dashboard.png) |
+| ![]() | ![Admin Stripe Balance](admin_images/admin_stripe_balance.png) |
+| ![]() | ![Admin Stripe Integration](admin_images/admin_stripe_integration.png) |
 ---
 
 ## Stripe Test & Verification
