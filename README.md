@@ -178,11 +178,11 @@ STRIPE_SECRET_KEY=sk_test_XXXXXXX
 ```
 I will make a Medium post with all the screenshots and procedures as well, hence leaving this section blank right now.
 ```
-
+<!--
 | Home Page                           | Admin Dashboard                     |
 |-------------------------------------|-------------------------------------|
 | ![Home Page](screenshots/home.png)  | ![Admin Dashboard](screenshots/admin.png) |
-
+-->
 ---
 
 ## Stripe Test & Verification
