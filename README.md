@@ -19,7 +19,7 @@ An online book store built with **PHP**, **MySQL**, **HTML/CSS**, **JavaScript**
 
 ## Description
 
-**Bookly** provides a simple and intuitive way for customers to explore a curated selection of books, add them to a cart, and proceed to checkout using Stripe for secure payments. Administrators have a dedicated panel to add/edit/delete books, manage orders, and view messages from users.
+**BookBazaar** provides a simple and intuitive way for customers to explore a curated selection of books, add them to a cart, and proceed to checkout using Stripe for secure payments. Administrators have a dedicated panel to add/edit/delete books, manage orders, and view messages from users.
 
 ---
 
@@ -110,7 +110,7 @@ Follow these steps to get the project running on your local machine:
    ```php
    <?php
    // Example config file
-   $conn = mysqli_connect('localhost','root','','bookly_db') or die('connection failed');
+   $conn = mysqli_connect('localhost','root','','shop_db') or die('connection failed');
 
    // Load Composer autoload
    require 'vendor/autoload.php';
